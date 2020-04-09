@@ -12,6 +12,7 @@
     <br />
 
 # CustomMediaPlayer
-CustomMediaPlayer is a custom media player! But now only music...
-커스텀 미디어 플래이어 입니다! 하지만 지금은 음악뿐...
+CustomMediaPlayer is a custom media player! But now only music...<br/>
+커스텀 미디어 플래이어 입니다! 하지만 지금은 음악뿐...<br/>
+[다운로드 Download](https://github.com/Cardroid/CustomMediaPlayer/releases/latest)
 </div>
