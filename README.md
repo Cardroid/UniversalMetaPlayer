@@ -17,22 +17,22 @@ CustomMediaPlayer is a custom media player! But now only music...<br/>
 [다운로드 Download](https://github.com/Cardroid/CustomMediaPlayer/releases/latest)
 
 ### 사용한 라이브러리
-CliWrap
-ControlzEx
-Costura.Fody
-Fody
-gong-wpf-dragdrop
-Instances
-LtGt
-MahApps.Metro
-MahApps.Metro.IconPacks
-Microsoft.CSharp
-MouseKeyHook
-NAudio
-Newtonsoft.Json
-NYoutubeDL <= 포함되어 있지만 사용하지 않음
-RunProcessAsTask
-Sprache
-System.Drawing.Common
-taglib
+CliWrap<br/>
+ControlzEx<br/>
+Costura.Fody<br/>
+Fody<br/>
+gong-wpf-dragdrop<br/>
+Instances<br/>
+LtGt<br/>
+MahApps.Metro<br/>
+MahApps.Metro.IconPacks<br/>
+Microsoft.CSharp<br/>
+MouseKeyHook<br/>
+NAudio<br/>
+Newtonsoft.Json<br/>
+NYoutubeDL <= 포함되어 있지만 사용하지 않음<br/>
+RunProcessAsTask<br/>
+Sprache<br/>
+System.Drawing.Common<br/>
+taglib<br/>
 </div>
