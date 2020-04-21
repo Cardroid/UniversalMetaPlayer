@@ -16,6 +16,8 @@ CustomMediaPlayer is a custom media player! But now only music...<br/>
 커스텀 미디어 플래이어 입니다! 하지만 지금은 음악뿐...<br/>
 [다운로드 Download](https://github.com/Cardroid/CustomMediaPlayer/releases/latest)
 
+## 이 프로그램은 더 이상 지원되지 않습니다
+
 ### 사용한 라이브러리
 CliWrap<br/>
 ControlzEx<br/>
