@@ -11,5 +11,4 @@
   </a>
     <br />
 
-# UniversalMetaPlayer
 [다운로드 Download](https://github.com/Cardroid/UniversalMetaPlayer/releases/latest)
