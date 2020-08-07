@@ -21,3 +21,7 @@
 <div>
     <img alt="UniversalMetaPlayer" width="300" heigth="450" src="https://github.com/Cardroid/UniversalMetaPlayer/blob/master/Image/FrameworkDownloadImage.jpg?raw=true">
 </div>
+
+### 사용시 권고사항
+본 플레이어를 사용하므로써 일어나는 모든 책임은 사용자에게 있습니다.
+본 플래이어 개발자는 사용중 발생하는 문제 및 법적 책임은 사용자에게 있음을 밝힙니다.
