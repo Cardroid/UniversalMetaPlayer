@@ -12,3 +12,6 @@
     <br />
 
 [다운로드 Download](https://github.com/Cardroid/UniversalMetaPlayer/releases/latest)
+
+### 아래 프로그램을 설치해주세요
+#### [.NET Core 3.1](https://dotnet.microsoft.com/download/dotnet-core/current/runtime)
