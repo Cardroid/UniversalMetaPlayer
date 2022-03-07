@@ -12,16 +12,15 @@
 </div>
 
 ## [다운로드 Download](https://github.com/Cardroid/UniversalMetaPlayer/releases/latest)
-#### 오류 발생시 [carbonsindh@gmail.com](mailto:carbonsindh@gmail.com)으로 로그와 함께 증상을 보내주세요!
+#### C#을 배우면서 같이 만든 프로그램입니다 (완성도가 많이 부족합니다)
 
 
 ### 아래 프로그램을 설치해주세요 
-#### (본 프로그램은 .NET Core 기반으로 만들어 졌습니다)
+#### (본 프로그램은 .NET Core 런타임에서 동작합니다)
 #### [.NET Core 3.1](https://dotnet.microsoft.com/download/dotnet-core/current/runtime)
 <div>
     <img alt="UniversalMetaPlayer" width="300" heigth="450" src="https://github.com/Cardroid/UniversalMetaPlayer/blob/master/Image/FrameworkDownloadImage.jpg?raw=true">
 </div>
 
 ### 사용시 권고사항
-본 플레이어를 사용하므로써 일어나는 모든 책임은 사용자에게 있습니다.</br>
-본 플래이어 개발자는 사용중 발생하는 모든 문제 및 법적 책임은 사용자에게 있음을 밝힙니다.
+본 플래이어 개발자는 사용중 발생하는 모든 책임은 사용자에게 있음을 밝힙니다.
